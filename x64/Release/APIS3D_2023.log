@@ -1,0 +1,9 @@
+﻿  APIS3D_2023.cpp
+D:\proyectos\apis3d2023\APIS3D_2023\APIS3D_2023\APIS3D_2023.cpp(133,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+D:\proyectos\apis3d2023\APIS3D_2023\APIS3D_2023\APIS3D_2023.cpp(134,19): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código
+  264 of 266 functions (99.2%) were compiled, the rest were copied from previous compilation.
+    249 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  APIS3D_2023.vcxproj -> D:\proyectos\apis3d2023\APIS3D_2023\x64\Release\APIS3D_2023.exe
